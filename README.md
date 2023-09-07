@@ -3,6 +3,8 @@ A helper script to setup the needed MFA tokens for aws cli use. Prompts the user
 
 Example runtime usage:
 ```
+./set_mfa_profile.sh
+
 Enter existing AWS CLI profile (e.g., default):
 myaccount
 Enter MFA token:
